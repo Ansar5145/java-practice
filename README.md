@@ -1,2 +1,24 @@
-# java-practice
-Java programs created while learning the basics of programming. Practice programs for Java and OOP concepts. My Java learning journey and practice codes.
+Java Practice
+
+Welcome to my Java Practice repository.
+
+ About
+
+This repository contains Java programs that I created while learning Java and Object-Oriented Programming (OOP) during my university studies.
+
+Topics
+
+- Java Basics
+- Variables
+- Loops
+- Arrays
+- Methods
+- OOP Concepts
+- Exception Handling
+
+Author
+
+Ansar Tariq
+
+BS Software Engineering Student  
+Iqra University Hyderabad
