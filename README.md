@@ -1,12 +1,12 @@
-Java Practice
+# Java Practice
 
 Welcome to my Java Practice repository.
 
- About
+## About
 
 This repository contains Java programs that I created while learning Java and Object-Oriented Programming (OOP) during my university studies.
 
-Topics
+## Topics
 
 - Java Basics
 - Variables
@@ -16,9 +16,9 @@ Topics
 - OOP Concepts
 - Exception Handling
 
-Author
+## Author
 
-Ansar Tariq
+**Ansar Tariq**
 
 BS Software Engineering Student  
 Iqra University Hyderabad
